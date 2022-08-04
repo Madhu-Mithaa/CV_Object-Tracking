@@ -13,3 +13,6 @@ Working very similarly as the mean shift, the cam shift algorithm simply adjusts
 
 
 In our Case , The CamShift algorithm performs better than the MeanShift algorithm in person tracking tasks. This could be due to the fact that CamShift (Continuously Adaptive MeanShift) is an improved version of the mean shift algorithm. 
+
+## Contributors
+Vijayasri Iyer & Madhumithaa V
